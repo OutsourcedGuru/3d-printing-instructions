@@ -7,7 +7,7 @@ I'll begin with some terms and then go into common workflows.
 ## FDM
 The FlashForge Creator Pro printer is of the **fused deposition modeling (FDM)** type. You build up a model by adding layer after layer of new material.
 
-![creatorpro](http://www.flashforge-usa.com/shop/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/r/creatorpro2_main_1000x1000.png)
+![creatorpro2_main_1000x1000](https://user-images.githubusercontent.com/15971213/32137647-b4c95824-bbd8-11e7-8bc5-e571826e5dbc.png)
 
 Think of this as the opposite of a CNC milling machine which starts with a block of something and then cuts down into it to progressively remove material from the original stock material.
 
