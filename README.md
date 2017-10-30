@@ -171,7 +171,7 @@ I've been working with the processing required to do electro-plating of plastic 
 ## What's next?
 I hope to create a step-by-step guide to allow each of you to feel comfortable using the Creator Pro printer, at least to produce parts from files made available to you.
 
-Given that the OCA coins are small and several could be printed per print job, you could consider stock-piling them and using them for some sort of counter or token in an incentive system.
+Given that the OCA coins are small and several could be printed per print job, you could consider stock-piling them and using them for some sort of counter or token in an incentive system. I've printed several coins and will bring them in for review.
 
 ### Skills
 1. Select a file from the SD card and print it to produce a part (relatively easy)
