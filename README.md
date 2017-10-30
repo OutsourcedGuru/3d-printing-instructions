@@ -152,7 +152,7 @@ Next to my printer at home, I keep a collection of things which seem to make pri
 5. **knife** for removing any remaining pieces of rafts and supports from the part itself
 6. **green kitchen-style scrubbing pad** for cleaning off the extruder while it's hot
 7. **hex-end aluminum bolts**, **bearings** and **axles** for connecting parts together
-8. **needle-nodes pliars** for removing supports
+8. **needle-nodes pliers** for removing supports
 9. **soldering tools** and wiring for connecting electronic parts embedded inside plastic parts
 10. **good lighting** in the work area allows you to see inside the printer, for example
 11. **desiccant and ziplock bags** are necessary for storing partially-used filament to prevent the absorption of too much water
