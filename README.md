@@ -134,7 +134,7 @@ The OCA-styled pencil holder which I've just printed at home is about 3" x 1" x 
 
 The OCA-styled coin which I've printed is 3.5mm x 25mm and took forty minutes at the highest setting and twelve minutes at the lowest.
 
-![dsc_0195](https://user-images.githubusercontent.com/15971213/32137602-e82a87fc-bbd7-11e7-88ce-21ea87f75a9b.png)
+![dsc_0195](https://user-images.githubusercontent.com/15971213/32137602-e82a87fc-bbd7-11e7-88ce-21ea87f75a9b.png)![dsc_0199](https://user-images.githubusercontent.com/15971213/32146368-9e932a74-bc93-11e7-803b-1f4e6cbaf472.png)
 
 (Click the photo below for a time-lapse video.)
 
