@@ -53,10 +53,10 @@ Here is an overview of a typical activity which results in a plastic part. I am 
 ### Robo C2
 
 1. Using Autodesk Fusion 360:
-	2. create a 2D sketch
-	3. expand that sketch into the third dimension
-	4. iteratively select a surface and repeat this, noting that a negative expansion cuts into the model's surface
-	5. finally, select the solid object and export it as STL
+	* create a 2D sketch
+	* expand that sketch into the third dimension
+	* iteratively select a surface and repeat this, noting that a negative expansion cuts into the model's surface
+	* finally, select the solid object and export it as STL
 2. Using Cura, slice the STL file for my printer and a particular filament I intend to use, saving as a GCODE file
 3. Using OctoPrint, upload the GCODE file to the printer's embedded computer and start the print job
 
@@ -73,10 +73,10 @@ The GCODE is physically stored in a microSD card which is inserted into the Rasp
 ### Creator Pro
 
 1. Using Autodesk Fusion 360, for example:
-	2. create a 2D sketch
-	3. expand that sketch into the third dimension
-	4. iteratively select a surface and repeat this, noting that a negative expansion cuts into the model's surface
-	5. finally, select the solid object and export it as STL
+	* create a 2D sketch
+	* expand that sketch into the third dimension
+	* iteratively select a surface and repeat this, noting that a negative expansion cuts into the model's surface
+	* finally, select the solid object and export it as STL
 2. Using [ReplicatorG](http://replicat.org/start), slice the STL file for the printer, then export as an **X3G** file
 3. By removing the SD card from the printer and inserting it into your workstation, add the X3G file to the /ENG folder, replace the card back into the printer and start the print job from the LCD menu
 
