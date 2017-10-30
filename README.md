@@ -210,7 +210,7 @@ Although much of the machine-related programming is done in Python, the interfac
 
 I've just completed an [OctoPrint plugin to ignore autoleveling](https://github.com/OutsourcedGuru/OctoPrint-plugin-toggle-autolevel) commands as seen in a GCODE file, something which is useful if you manually level instead.
 
-Additionally, I've recently completed a [CLI application written in the Go compiler](https://github.com/OutsourcedGuru/SlicingInfo) for extracting slicing information from a GCODE file. I am also working on an OctoPrint plugin version of same.
+Additionally, I've recently completed a [CLI application written in the Go compiler](https://github.com/OutsourcedGuru/SlicingInfo) for extracting slicing information from a GCODE file. I am also working on an OctoPrint plugin version of same. I've just finished a [CLI application written in the Go compiler](https://github.com/OutsourcedGuru/GetToDahChoppa) for chopping a GCODE file into sub-files so that multiple colors, for example, may be used in the same part.
 
 My modified printer now does photography and time-lapse videos. I plan to add a remote-shutter capability to my Nikon camera as well, taking photos from commands in a GCODE file.
 
