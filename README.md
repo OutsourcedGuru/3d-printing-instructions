@@ -60,7 +60,7 @@ Here is an overview of a typical activity which results in a plastic part. I am 
 2. Using Cura, slice the STL file for my printer and a particular filament I intend to use, saving as a GCODE file
 3. Using OctoPrint, upload the GCODE file to the printer's embedded computer and start the print job
 
-![octoprint](http://docs.robo3d.com/en/latest/_images/61.png)
+![octoprint](https://user-images.githubusercontent.com/15971213/34428017-1c694094-ebfd-11e7-9bbc-a06ec573a55e.jpg)
 
 Note that my printer at home includes an embedded computer with a web service interface and wi-fi connectivity. Although the printer includes an LCD screen, most interaction with the printer is via the web interface. Note that it is unnecessary to stay connected to this interface for the job to continue to completion.
 
@@ -215,6 +215,15 @@ Additionally, I've recently completed a [CLI application written in the Go compi
 My modified printer now does photography and time-lapse videos. I plan to add a remote-shutter capability to my Nikon camera as well, taking photos from commands in a GCODE file.
 
 It's entirely possible to write multiple stand-alone services on this platform which could do almost anything you could think about. The Raspberry Pi 3 includes a very useful GPIO (General Purpose I/O) interface for controlling physical pins on its header. This is useful for doing any number of things in the world of hardware.
+
+As low-hanging fruit, I think it would be possible to have the students do any of the following:
+
+1. Write a mobile application, exercising the Octoprint API to control the printer
+2. Write a JavaScript CLI to perform activities to manipulate or query content in a GCODE text file
+3. Clone images of the existing printer for development purposes, using spare Raspberry Pi 3 computers to avoid polluting the original image
+3. Write a Node-based add-on service which runs on the spare Raspberry Pi 3 computer (having been cloned) to add some functionality
+
+It's difficult to say if using additional hardware is outside of what the students can understand and do. If so, however, an external stepper motor and driver circuit could be controlled via the Raspberry Pi 3 computer, as accessed via JavaScript.
 
 ## Modding opportunities
 Many 3D printers, especially those in the crowd-funded areas, aren't mature products in the consumer market and arrive with a number of problems in the design areas.
